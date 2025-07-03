@@ -5,10 +5,9 @@
 ## Task 7 - Browser Extension Audit
 
 ### Suspicious Extensions Removed:
-- XYZ AdBlocker (excessive permissions, poor reviews)
-- QuickSearch Tab (redirected search engine)
+- 123apps (excessive permissions, poor reviews)
 
 ### Actions Taken:
-- Removed 2 suspicious extensions
+- Removed 1 suspicious extensions
 - Restarted browser and monitored performance
 - Gained awareness of risks from malicious extensions
